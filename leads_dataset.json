@@ -1,0 +1,98 @@
+[
+  {
+    "id": "lead-001",
+    "companyName": "FieldTrack Logistics Solutions",
+    "domain": "fieldtracklogistics.com",
+    "industry": "Field Service Automation",
+    "foundedYear": 2014,
+    "aiScore": {
+      "techModernity": 48,
+      "automationPotential": 92,
+      "supportAiFit": 88,
+      "dataInfrastructure": 55,
+      "overallScore": 71
+    },
+    "acquisitionSignals": {
+      "founderRisk": "High",
+      "techDebtLevel": "High",
+      "hiringTrend": "Flat",
+      "marketTier": "Lower-Middle Market",
+      "estimatedARR": "$3.8M - $4.5M",
+      "employeeCount": "22"
+    },
+    "techStack": [
+      { "category": "CMS", "name": "WordPress (v5.8)", "modernity": "Legacy" },
+      { "category": "Analytics", "name": "Google Analytics UA", "modernity": "Outdated" },
+      { "category": "Support/CRM", "name": "Zendesk Email Ticket Only", "modernity": "Legacy" }
+    ],
+    "contactInfo": {
+      "founderName": "Mark Higgins",
+      "title": "Founder & CEO",
+      "email": "m.higgins@fieldtracklogistics.com"
+    },
+    "status": "Vetted"
+  },
+  {
+    "id": "lead-002",
+    "companyName": "MedFlow Workflow Systems",
+    "domain": "medflowsystems.io",
+    "industry": "Healthcare IT",
+    "foundedYear": 2016,
+    "aiScore": {
+      "techModernity": 65,
+      "automationPotential": 85,
+      "supportAiFit": 78,
+      "dataInfrastructure": 60,
+      "overallScore": 72
+    },
+    "acquisitionSignals": {
+      "founderRisk": "Medium",
+      "techDebtLevel": "Moderate",
+      "hiringTrend": "Growing",
+      "marketTier": "Lower-Middle Market",
+      "estimatedARR": "$5.2M - $6.0M",
+      "employeeCount": "34"
+    },
+    "techStack": [
+      { "category": "Framework", "name": "React 17 / Node.js", "modernity": "Modern" },
+      { "category": "Hosting/CDN", "name": "AWS EC2 / CloudFront", "modernity": "Modern" }
+    ],
+    "contactInfo": {
+      "founderName": "Sarah Jenkins",
+      "title": "Co-Founder & President",
+      "email": "s.jenkins@medflowsystems.io"
+    },
+    "status": "New"
+  },
+  {
+    "id": "lead-003",
+    "companyName": "SupplyChain Hub Pro",
+    "domain": "supplychainhub.net",
+    "industry": "Supply Chain & ERP",
+    "foundedYear": 2012,
+    "aiScore": {
+      "techModernity": 35,
+      "automationPotential": 96,
+      "supportAiFit": 90,
+      "dataInfrastructure": 40,
+      "overallScore": 65
+    },
+    "acquisitionSignals": {
+      "founderRisk": "High",
+      "techDebtLevel": "High",
+      "hiringTrend": "Slowdown",
+      "marketTier": "Lower-Middle Market",
+      "estimatedARR": "$2.1M - $2.8M",
+      "employeeCount": "14"
+    },
+    "techStack": [
+      { "category": "CMS", "name": "Custom ASP.NET WebForms", "modernity": "Outdated" }
+    ],
+    "contactInfo": {
+      "founderName": "Robert Vance",
+      "title": "Founder & Head of Engineering",
+      "email": "rvance@supplychainhub.net"
+    },
+    "status": "In Discussion"
+  }
+]
